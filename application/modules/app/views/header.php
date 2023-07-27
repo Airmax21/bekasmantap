@@ -16,20 +16,17 @@
   <script src="<?= base_url() ?>assets/plugin/bootstrap/js/bootstrap.js"></script>
   <script src="<?= base_url() ?>assets/plugin/jquery/jquery.js"></script>
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WFSWE5V8W7"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EVHMX2CGJ1"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Text&display=swap" rel="stylesheet">
 </head>
 <script>
   window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-    dataLayer.push(arguments);
-  }
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-WFSWE5V8W7');
+  gtag('config', 'G-EVHMX2CGJ1');
 </script>
 <style>
   body{
