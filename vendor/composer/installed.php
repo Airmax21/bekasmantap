@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'codeigniter/framework',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '34226613619fb0ce341b3f0eeb75e5da8008c8c0',
+        'type' => 'project',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'codeigniter/framework' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '34226613619fb0ce341b3f0eeb75e5da8008c8c0',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'filp/whoops' => array(
+            'pretty_version' => '2.15.2',
+            'version' => '2.15.2.0',
+            'reference' => 'aac9304c5ed61bf7b1b7a6064bf9806ab842ce73',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../filp/whoops',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'psr/log' => array(
+            'pretty_version' => '1.1.4',
+            'version' => '1.1.4.0',
+            'reference' => 'd49695b909c3b7628b6289db5479a1c204601f11',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../psr/log',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
